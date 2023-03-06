@@ -1,0 +1,16 @@
+.movie{
+    border: 1px black solid;
+    background-color: rgba(206, 206, 206, 0.733);
+    padding: 10px;
+    margin: 6px;
+    padding-bottom: 1px;
+    font-weight: bold;
+    text-align: left;
+    box-shadow: 3px 6px rgba(87, 85, 85, 0.733) ;
+}
+
+img{
+    height:250px;
+    width: 100%;
+    box-shadow: 30%;
+}
